@@ -1,16 +1,22 @@
 from pymongo import MongoClient
+from bson import ObjectId
 import json
 
-# Connect to MongoDB
+# Connect
 client = MongoClient("mongodb://localhost:27017")
 db = client["ccms_ai"]
 collection = db["patientrecording"]
-# Step 1: Remove all existing documents
-delete_result = collection.delete_many({})
-print(f"Deleted {delete_result.deleted_count} existing documents.")
-# Step 2: Load new dataset
+# Step 1: Delete existing data
+collection.delete_many({})
+print("Old data deleted.")
+# Step 2: Load JSON
 with open("mongo_insert.json") as f:
     data = json.load(f)
-# Step 3: Insert new documents
-insert_result = collection.insert_many(data)
-print(f"Inserted {len(insert_result.inserted_ids)} new documents successfully!")
+# Step 3: FIX _id FIELD
+for doc in data:
+    if "_id" in doc and "$oid" in doc["_id"]:
+        doc["_id"] = ObjectId(doc["_id"]["$oid"])
+# Step 4: Insert
+collection.insert_many(data)
+
+print("Data inserted successfully!")
