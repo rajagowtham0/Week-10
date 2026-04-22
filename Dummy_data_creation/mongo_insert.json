@@ -1,0 +1,1802 @@
+[
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17007"
+    },
+    "case_id": "ACNE_001",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 1",
+    "duration_days": 51,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 31,
+    "patient": {
+      "age": 21,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17008"
+    },
+    "case_id": "ACNE_002",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 2",
+    "duration_days": 52,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 32,
+    "patient": {
+      "age": 22,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17009"
+    },
+    "case_id": "ACNE_003",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 3",
+    "duration_days": 53,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 33,
+    "patient": {
+      "age": 23,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1700a"
+    },
+    "case_id": "ACNE_004",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 4",
+    "duration_days": 54,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 34,
+    "patient": {
+      "age": 24,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1700b"
+    },
+    "case_id": "ACNE_005",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 5",
+    "duration_days": 55,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 35,
+    "patient": {
+      "age": 25,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1700c"
+    },
+    "case_id": "ACNE_006",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 6",
+    "duration_days": 56,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 36,
+    "patient": {
+      "age": 26,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1700d"
+    },
+    "case_id": "ACNE_007",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 7",
+    "duration_days": 57,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 37,
+    "patient": {
+      "age": 27,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1700e"
+    },
+    "case_id": "ACNE_008",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 8",
+    "duration_days": 58,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 38,
+    "patient": {
+      "age": 28,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1700f"
+    },
+    "case_id": "ACNE_009",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 9",
+    "duration_days": 59,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 39,
+    "patient": {
+      "age": 29,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17010"
+    },
+    "case_id": "ACNE_010",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 10",
+    "duration_days": 60,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 40,
+    "patient": {
+      "age": 20,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17011"
+    },
+    "case_id": "ACNE_011",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 11",
+    "duration_days": 61,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 41,
+    "patient": {
+      "age": 21,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17012"
+    },
+    "case_id": "ACNE_012",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 12",
+    "duration_days": 62,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 42,
+    "patient": {
+      "age": 22,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17013"
+    },
+    "case_id": "ACNE_013",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 13",
+    "duration_days": 63,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 43,
+    "patient": {
+      "age": 23,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17014"
+    },
+    "case_id": "ACNE_014",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 14",
+    "duration_days": 64,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 44,
+    "patient": {
+      "age": 24,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17015"
+    },
+    "case_id": "ACNE_015",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 15",
+    "duration_days": 65,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 45,
+    "patient": {
+      "age": 25,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17016"
+    },
+    "case_id": "ACNE_016",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 16",
+    "duration_days": 66,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 46,
+    "patient": {
+      "age": 26,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17017"
+    },
+    "case_id": "ACNE_017",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 17",
+    "duration_days": 67,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 47,
+    "patient": {
+      "age": 27,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17018"
+    },
+    "case_id": "ACNE_018",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 18",
+    "duration_days": 68,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 48,
+    "patient": {
+      "age": 28,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17019"
+    },
+    "case_id": "ACNE_019",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 19",
+    "duration_days": 69,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 49,
+    "patient": {
+      "age": 29,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1701a"
+    },
+    "case_id": "ACNE_020",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 20",
+    "duration_days": 70,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 50,
+    "patient": {
+      "age": 20,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1701b"
+    },
+    "case_id": "ACNE_021",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 21",
+    "duration_days": 71,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 51,
+    "patient": {
+      "age": 21,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1701c"
+    },
+    "case_id": "ACNE_022",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 22",
+    "duration_days": 72,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 52,
+    "patient": {
+      "age": 22,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1701d"
+    },
+    "case_id": "ACNE_023",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 23",
+    "duration_days": 73,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 53,
+    "patient": {
+      "age": 23,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1701e"
+    },
+    "case_id": "ACNE_024",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 24",
+    "duration_days": 74,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 54,
+    "patient": {
+      "age": 24,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1701f"
+    },
+    "case_id": "ACNE_025",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 25",
+    "duration_days": 75,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 55,
+    "patient": {
+      "age": 25,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17020"
+    },
+    "case_id": "ACNE_026",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 26",
+    "duration_days": 76,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 56,
+    "patient": {
+      "age": 26,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17021"
+    },
+    "case_id": "ACNE_027",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 27",
+    "duration_days": 77,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 57,
+    "patient": {
+      "age": 27,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17022"
+    },
+    "case_id": "ACNE_028",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 28",
+    "duration_days": 78,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 58,
+    "patient": {
+      "age": 28,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17023"
+    },
+    "case_id": "ACNE_029",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 29",
+    "duration_days": 79,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 59,
+    "patient": {
+      "age": 29,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17024"
+    },
+    "case_id": "ACNE_030",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 30",
+    "duration_days": 80,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Oral antibiotics",
+    "outcome": "Improved",
+    "recovery_days": 60,
+    "patient": {
+      "age": 20,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17025"
+    },
+    "case_id": "ACNE_031",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 31",
+    "duration_days": 81,
+    "doctor_notes": "moderate inflammatory acne stage 1",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 61,
+    "patient": {
+      "age": 21,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17026"
+    },
+    "case_id": "ACNE_032",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 32",
+    "duration_days": 82,
+    "doctor_notes": "moderate inflammatory acne stage 2",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Topical retinoid + benzoyl peroxide",
+    "outcome": "Improved",
+    "recovery_days": 62,
+    "patient": {
+      "age": 22,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17027"
+    },
+    "case_id": "ACNE_033",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "acne lesions with oily skin variation 33",
+    "duration_days": 83,
+    "doctor_notes": "moderate inflammatory acne stage 0",
+    "diagnosis": "Acne Vulgaris",
+    "treatment": "Salicylic acid",
+    "outcome": "Improved",
+    "recovery_days": 63,
+    "patient": {
+      "age": 23,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17028"
+    },
+    "case_id": "PIG_001",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 1",
+    "duration_days": 81,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 61,
+    "patient": {
+      "age": 26,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17029"
+    },
+    "case_id": "PIG_002",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 2",
+    "duration_days": 82,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 62,
+    "patient": {
+      "age": 27,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1702a"
+    },
+    "case_id": "PIG_003",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 3",
+    "duration_days": 83,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 63,
+    "patient": {
+      "age": 28,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1702b"
+    },
+    "case_id": "PIG_004",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 4",
+    "duration_days": 84,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 64,
+    "patient": {
+      "age": 29,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1702c"
+    },
+    "case_id": "PIG_005",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 5",
+    "duration_days": 85,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 65,
+    "patient": {
+      "age": 30,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1702d"
+    },
+    "case_id": "PIG_006",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 6",
+    "duration_days": 86,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 66,
+    "patient": {
+      "age": 31,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1702e"
+    },
+    "case_id": "PIG_007",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 7",
+    "duration_days": 87,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 67,
+    "patient": {
+      "age": 32,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1702f"
+    },
+    "case_id": "PIG_008",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 8",
+    "duration_days": 88,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 68,
+    "patient": {
+      "age": 33,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17030"
+    },
+    "case_id": "PIG_009",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 9",
+    "duration_days": 89,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 69,
+    "patient": {
+      "age": 34,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17031"
+    },
+    "case_id": "PIG_010",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 10",
+    "duration_days": 90,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 70,
+    "patient": {
+      "age": 35,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17032"
+    },
+    "case_id": "PIG_011",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 11",
+    "duration_days": 91,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 71,
+    "patient": {
+      "age": 36,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17033"
+    },
+    "case_id": "PIG_012",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 12",
+    "duration_days": 92,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 72,
+    "patient": {
+      "age": 37,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17034"
+    },
+    "case_id": "PIG_013",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 13",
+    "duration_days": 93,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 73,
+    "patient": {
+      "age": 38,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17035"
+    },
+    "case_id": "PIG_014",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 14",
+    "duration_days": 94,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 74,
+    "patient": {
+      "age": 39,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17036"
+    },
+    "case_id": "PIG_015",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 15",
+    "duration_days": 95,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 75,
+    "patient": {
+      "age": 25,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17037"
+    },
+    "case_id": "PIG_016",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 16",
+    "duration_days": 96,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 76,
+    "patient": {
+      "age": 26,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17038"
+    },
+    "case_id": "PIG_017",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 17",
+    "duration_days": 97,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 77,
+    "patient": {
+      "age": 27,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17039"
+    },
+    "case_id": "PIG_018",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 18",
+    "duration_days": 98,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 78,
+    "patient": {
+      "age": 28,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1703a"
+    },
+    "case_id": "PIG_019",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 19",
+    "duration_days": 99,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 79,
+    "patient": {
+      "age": 29,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1703b"
+    },
+    "case_id": "PIG_020",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 20",
+    "duration_days": 100,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 80,
+    "patient": {
+      "age": 30,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1703c"
+    },
+    "case_id": "PIG_021",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 21",
+    "duration_days": 101,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 81,
+    "patient": {
+      "age": 31,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1703d"
+    },
+    "case_id": "PIG_022",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 22",
+    "duration_days": 102,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 82,
+    "patient": {
+      "age": 32,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1703e"
+    },
+    "case_id": "PIG_023",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 23",
+    "duration_days": 103,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 83,
+    "patient": {
+      "age": 33,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1703f"
+    },
+    "case_id": "PIG_024",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 24",
+    "duration_days": 104,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 84,
+    "patient": {
+      "age": 34,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17040"
+    },
+    "case_id": "PIG_025",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 25",
+    "duration_days": 105,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 85,
+    "patient": {
+      "age": 35,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17041"
+    },
+    "case_id": "PIG_026",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 26",
+    "duration_days": 106,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 86,
+    "patient": {
+      "age": 36,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17042"
+    },
+    "case_id": "PIG_027",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 27",
+    "duration_days": 107,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 87,
+    "patient": {
+      "age": 37,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17043"
+    },
+    "case_id": "PIG_028",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 28",
+    "duration_days": 108,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 88,
+    "patient": {
+      "age": 38,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17044"
+    },
+    "case_id": "PIG_029",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 29",
+    "duration_days": 109,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 89,
+    "patient": {
+      "age": 39,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17045"
+    },
+    "case_id": "PIG_030",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 30",
+    "duration_days": 110,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Hydroquinone cream",
+    "outcome": "Partially Improved",
+    "recovery_days": 90,
+    "patient": {
+      "age": 25,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17046"
+    },
+    "case_id": "PIG_031",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 31",
+    "duration_days": 111,
+    "doctor_notes": "melasma pigmentation level 1",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 91,
+    "patient": {
+      "age": 26,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17047"
+    },
+    "case_id": "PIG_032",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 32",
+    "duration_days": 112,
+    "doctor_notes": "melasma pigmentation level 2",
+    "diagnosis": "Melasma",
+    "treatment": "Laser therapy",
+    "outcome": "Partially Improved",
+    "recovery_days": 92,
+    "patient": {
+      "age": 27,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17048"
+    },
+    "case_id": "PIG_033",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "dark pigmentation patches variation 33",
+    "duration_days": 113,
+    "doctor_notes": "melasma pigmentation level 0",
+    "diagnosis": "Melasma",
+    "treatment": "Chemical peel + sunscreen",
+    "outcome": "Partially Improved",
+    "recovery_days": 93,
+    "patient": {
+      "age": 28,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17049"
+    },
+    "case_id": "HAIR_001",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 1",
+    "duration_days": 101,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 71,
+    "patient": {
+      "age": 23,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1704a"
+    },
+    "case_id": "HAIR_002",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 2",
+    "duration_days": 102,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 72,
+    "patient": {
+      "age": 24,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1704b"
+    },
+    "case_id": "HAIR_003",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 3",
+    "duration_days": 103,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 73,
+    "patient": {
+      "age": 25,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1704c"
+    },
+    "case_id": "HAIR_004",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 4",
+    "duration_days": 104,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 74,
+    "patient": {
+      "age": 26,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1704d"
+    },
+    "case_id": "HAIR_005",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 5",
+    "duration_days": 105,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 75,
+    "patient": {
+      "age": 27,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1704e"
+    },
+    "case_id": "HAIR_006",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 6",
+    "duration_days": 106,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 76,
+    "patient": {
+      "age": 28,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1704f"
+    },
+    "case_id": "HAIR_007",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 7",
+    "duration_days": 107,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 77,
+    "patient": {
+      "age": 29,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17050"
+    },
+    "case_id": "HAIR_008",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 8",
+    "duration_days": 108,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 78,
+    "patient": {
+      "age": 30,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17051"
+    },
+    "case_id": "HAIR_009",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 9",
+    "duration_days": 109,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 79,
+    "patient": {
+      "age": 31,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17052"
+    },
+    "case_id": "HAIR_010",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 10",
+    "duration_days": 110,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 80,
+    "patient": {
+      "age": 32,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17053"
+    },
+    "case_id": "HAIR_011",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 11",
+    "duration_days": 111,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 81,
+    "patient": {
+      "age": 33,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17054"
+    },
+    "case_id": "HAIR_012",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 12",
+    "duration_days": 112,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 82,
+    "patient": {
+      "age": 34,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17055"
+    },
+    "case_id": "HAIR_013",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 13",
+    "duration_days": 113,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 83,
+    "patient": {
+      "age": 35,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17056"
+    },
+    "case_id": "HAIR_014",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 14",
+    "duration_days": 114,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 84,
+    "patient": {
+      "age": 36,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17057"
+    },
+    "case_id": "HAIR_015",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 15",
+    "duration_days": 115,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 85,
+    "patient": {
+      "age": 37,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17058"
+    },
+    "case_id": "HAIR_016",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 16",
+    "duration_days": 116,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 86,
+    "patient": {
+      "age": 38,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17059"
+    },
+    "case_id": "HAIR_017",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 17",
+    "duration_days": 117,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 87,
+    "patient": {
+      "age": 39,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1705a"
+    },
+    "case_id": "HAIR_018",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 18",
+    "duration_days": 118,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 88,
+    "patient": {
+      "age": 40,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1705b"
+    },
+    "case_id": "HAIR_019",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 19",
+    "duration_days": 119,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 89,
+    "patient": {
+      "age": 41,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1705c"
+    },
+    "case_id": "HAIR_020",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 20",
+    "duration_days": 120,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 90,
+    "patient": {
+      "age": 22,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1705d"
+    },
+    "case_id": "HAIR_021",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 21",
+    "duration_days": 121,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 91,
+    "patient": {
+      "age": 23,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1705e"
+    },
+    "case_id": "HAIR_022",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 22",
+    "duration_days": 122,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 92,
+    "patient": {
+      "age": 24,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1705f"
+    },
+    "case_id": "HAIR_023",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 23",
+    "duration_days": 123,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 93,
+    "patient": {
+      "age": 25,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17060"
+    },
+    "case_id": "HAIR_024",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 24",
+    "duration_days": 124,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 94,
+    "patient": {
+      "age": 26,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17061"
+    },
+    "case_id": "HAIR_025",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 25",
+    "duration_days": 125,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 95,
+    "patient": {
+      "age": 27,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17062"
+    },
+    "case_id": "HAIR_026",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 26",
+    "duration_days": 126,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 96,
+    "patient": {
+      "age": 28,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17063"
+    },
+    "case_id": "HAIR_027",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 27",
+    "duration_days": 127,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Minoxidil",
+    "outcome": "Improved",
+    "recovery_days": 97,
+    "patient": {
+      "age": 29,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17064"
+    },
+    "case_id": "HAIR_028",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 28",
+    "duration_days": 128,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 98,
+    "patient": {
+      "age": 30,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17065"
+    },
+    "case_id": "HAIR_029",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 29",
+    "duration_days": 129,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 99,
+    "patient": {
+      "age": 31,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17066"
+    },
+    "case_id": "HAIR_030",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 30",
+    "duration_days": 130,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 100,
+    "patient": {
+      "age": 32,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17067"
+    },
+    "case_id": "HAIR_031",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 31",
+    "duration_days": 131,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 101,
+    "patient": {
+      "age": 33,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17068"
+    },
+    "case_id": "HAIR_032",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 32",
+    "duration_days": 132,
+    "doctor_notes": "telogen effluvium stage 2",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 102,
+    "patient": {
+      "age": 34,
+      "gender": "Male"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b17069"
+    },
+    "case_id": "HAIR_033",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 33",
+    "duration_days": 133,
+    "doctor_notes": "telogen effluvium stage 0",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "Finasteride",
+    "outcome": "Improved",
+    "recovery_days": 103,
+    "patient": {
+      "age": 35,
+      "gender": "Female"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e86380cf7c643825b1706a"
+    },
+    "case_id": "HAIR_034",
+    "clinic_id": "CLINIC_001",
+    "symptoms": "hair thinning and shedding variation 34",
+    "duration_days": 134,
+    "doctor_notes": "telogen effluvium stage 1",
+    "diagnosis": "Telogen Effluvium",
+    "treatment": "PRP therapy",
+    "outcome": "Improved",
+    "recovery_days": 104,
+    "patient": {
+      "age": 36,
+      "gender": "Male"
+    }
+  }
+]
