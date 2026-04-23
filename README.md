@@ -47,3 +47,49 @@ Generates dense vector embeddings from clinical text for semantic similarity.
 Provides efficient vector indexing and fast nearest-neighbor search.
 ### NumPy
 Handles numerical operations and embedding vector transformations.
+
+## Running the API service
+### Ensure MongoDB is running locally
+1. The application depends on stored embeddings and case data.
+2. Default connection: mongodb://localhost:27017
+### Start the FastAPI server
+uvicorn app:app --reload
+### Access the API interface
+http://127.0.0.1:8000/docs
+1. Interactive Swagger UI will be available for testing endpoints.
+2. The FAISS index and embeddings are initialized automatically at startup.
+### API Request
+{
+  "symptoms": "hair thinning and excessive shedding",
+  "doctor_notes": "telogen effluvium"
+}
+### API Response
+{
+  "similar_cases":
+  [
+    {
+      "case_id": "HAIR_034",
+      "similarity_score": 0.9043
+    },
+    {
+      "case_id": "HAIR_002",
+      "similarity_score": 0.903
+    },
+    {
+      "case_id": "HAIR_011",
+      "similarity_score": 0.9025
+    },
+    {
+      "case_id": "HAIR_019",
+      "similarity_score": 0.9008
+    },
+    {
+      "case_id": "HAIR_010",
+      "similarity_score": 0.9006
+    }
+  ]
+  ,
+  "symptoms": "The similarity is mainly due to shared symptoms such as hair, thinning",
+  "treatment": "In similar past cases, patients well responded PRP therapy",
+  "similarity_score": "Based on the 5 similar patients, the weighted confidence score obtained is 0.902"
+}
