@@ -1,0 +1,35 @@
+[
+  # Acne Input Cases
+  {"symptoms": "red pimples with oily skin on cheeks", "doctor_notes": "moderate inflammatory acne"},
+  {"symptoms": "whiteheads and blackheads on nose and chin", "doctor_notes": "comedonal acne condition"},
+  {"symptoms": "painful cystic acne on jawline", "doctor_notes": "severe nodular acne"},
+  {"symptoms": "frequent breakouts on forehead with oily skin", "doctor_notes": "mild acne vulgaris"},
+  {"symptoms": "pus filled acne lesions on back", "doctor_notes": "severe acne infection"},
+  {"symptoms": "acne with redness and inflammation", "doctor_notes": "chronic inflammatory acne"},
+  {"symptoms": "persistent acne with scarring", "doctor_notes": "long term acne condition"},
+  {"symptoms": "small bumps with oily skin on face", "doctor_notes": "early stage acne"},
+  {"symptoms": "multiple acne lesions with swelling", "doctor_notes": "moderate acne severity"},
+  {"symptoms": "breakouts with blackheads on T-zone", "doctor_notes": "mixed acne type"},
+  # Pigmentation Cases
+  {"symptoms": "dark patches on cheeks and forehead", "doctor_notes": "melasma pigmentation"},
+  {"symptoms": "brown spots due to sun exposure", "doctor_notes": "solar lentigines"},
+  {"symptoms": "uneven skin tone with discoloration", "doctor_notes": "hyperpigmentation condition"},
+  {"symptoms": "patchy pigmentation on face", "doctor_notes": "chronic melasma"},
+  {"symptoms": "dark spots after acne healing", "doctor_notes": "post inflammatory pigmentation"},
+  {"symptoms": "freckles and sun spots on skin", "doctor_notes": "sun induced pigmentation"},
+  {"symptoms": "uneven dark patches around nose and cheeks", "doctor_notes": "melasma pattern pigmentation"},
+  {"symptoms": "skin discoloration with brown patches", "doctor_notes": "chronic hyperpigmentation"},
+  {"symptoms": "dull skin with uneven tone", "doctor_notes": "pigment imbalance"},
+  {"symptoms": "sun exposure leading to darkened skin areas", "doctor_notes": "solar pigmentation"},
+  # Hairloss Input Cases
+  {"symptoms": "hair thinning and excessive shedding", "doctor_notes": "telogen effluvium"},
+  {"symptoms": "hair fall during combing and washing", "doctor_notes": "temporary hair loss"},
+  {"symptoms": "reduced hair density on scalp", "doctor_notes": "chronic hair thinning"},
+  {"symptoms": "gradual hair loss over months", "doctor_notes": "progressive thinning"},
+  {"symptoms": "hair shedding after stress", "doctor_notes": "stress induced hair loss"},
+  {"symptoms": "weak hair roots with increased fall", "doctor_notes": "early stage thinning"},
+  {"symptoms": "visible scalp due to hair loss", "doctor_notes": "advanced hair thinning"},
+  {"symptoms": "hair loss near crown region", "doctor_notes": "pattern hair loss"},
+  {"symptoms": "continuous shedding with low volume", "doctor_notes": "diffuse hair loss"},
+  {"symptoms": "hair thinning with breakage", "doctor_notes": "chronic hair damage"}
+]
