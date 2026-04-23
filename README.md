@@ -32,3 +32,18 @@ Generates embeddings and manages caching and storage.
 Stores configuration variables such as database connection and model details.
 ### app.py
 Serves as the main API layer connecting all components.
+
+## Dependencies
+### pip install fastapi uvicorn pymongo sentence-transformers faiss-cpu numpy
+### FastAPI
+Used to build the REST API for handling clinical query requests.
+### Uvicorn
+ASGI server required to run the FastAPI application.
+### PyMongo
+Enables interaction with MongoDB for fetching and storing clinical case data.
+### Sentence-Transformers
+Generates dense vector embeddings from clinical text for semantic similarity.
+### FAISS (faiss-cpu)
+Provides efficient vector indexing and fast nearest-neighbor search.
+### NumPy
+Handles numerical operations and embedding vector transformations.
