@@ -33,6 +33,19 @@ Stores configuration variables such as database connection and model details.
 ### app.py
 Serves as the main API layer connecting all components.
 
+## Dummy data creation overview
+Dataset Creation → MongoDB Storage → Embedding Generation → Vector Database
+### Dataset_creation.py
+Generates synthetic clinical case records for acne, pigmentation, 
+and hair loss conditions with structured attributes.
+### insert_data.py
+Inserts the generated dataset into MongoDB (ccms_ai.patientrecording) 
+after clearing existing records.
+### vector_conversion.py
+Transforms clinical text (symptoms + doctor notes) into dense vector embeddings using a SentenceTransformer model and stores them in ccms_embeddings.embedded_cases.
+### mongo_insert.json
+Intermediate dataset file used for batch insertion into MongoDB.
+
 ## Dependencies
 ### pip install fastapi uvicorn pymongo sentence-transformers faiss-cpu numpy
 ### FastAPI
