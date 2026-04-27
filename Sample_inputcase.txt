@@ -12,9 +12,7 @@
   {"symptoms": "breakouts with blackheads on T-zone", "doctor_notes": "mixed acne type"},
   # Pigmentation Cases
   {"symptoms": "dark patches on cheeks and forehead", "doctor_notes": "melasma pigmentation"},
-  {"symptoms": "brown spots due to sun exposure", "doctor_notes": "solar lentigines"},
   {"symptoms": "uneven skin tone with discoloration", "doctor_notes": "hyperpigmentation condition"},
-  {"symptoms": "patchy pigmentation on face", "doctor_notes": "chronic melasma"},
   {"symptoms": "dark spots after acne healing", "doctor_notes": "post inflammatory pigmentation"},
   {"symptoms": "freckles and sun spots on skin", "doctor_notes": "sun induced pigmentation"},
   {"symptoms": "uneven dark patches around nose and cheeks", "doctor_notes": "melasma pattern pigmentation"},
